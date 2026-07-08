@@ -1,2 +1,5 @@
 file.log
 file.db
+# Директории
+target/
+bin/
